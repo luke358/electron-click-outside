@@ -1,6 +1,6 @@
 {
   "name": "electron-click-outside-darwin-x64",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "os": [
     "darwin"
   ],
