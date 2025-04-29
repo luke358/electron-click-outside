@@ -36,5 +36,6 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.1",
+  "repository": "https://github.com/luke358/electron-click-outside.git"
 }
